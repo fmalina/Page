@@ -51,6 +51,5 @@ in full circle. This code can inspire users to convert existing static site
 or one powered by a slow Content Management System to simple
 markdown powered static site and maintain it with Page.
 
-Static cache generation helpers provided for Django
-see [static.py](https://github.com/fmalina/page/blob/main/static.py).
+Static cache generation helpers provided for Django.
 
